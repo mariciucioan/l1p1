@@ -1,0 +1,12 @@
+com/ioanmariciuc/l1p1/Square.java
+ com.ioanmariciuc.l1p1.Square
+com/ioanmariciuc/l1p1/Interface.java
+ com.ioanmariciuc.l1p1.Interface
+com/ioanmariciuc/l1p1/Shape.java
+ com.ioanmariciuc.l1p1.Shape
+com/ioanmariciuc/l1p1/Main.java
+ com.ioanmariciuc.l1p1.Main
+com/ioanmariciuc/l1p1/Triangle.java
+ com.ioanmariciuc.l1p1.Triangle
+ com.ioanmariciuc.l1p1.Triangle$1
+ com.ioanmariciuc.l1p1.Triangle$TYPE
